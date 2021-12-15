@@ -10,7 +10,7 @@ object Dependencies {
 
       case object liancheng {
         val `organize-imports` =
-          "com.github.liancheng" %% "organize-imports" % "0.5.0"
+          "com.github.liancheng" %% "organize-imports" % "0.6.0"
       }
     }
 
