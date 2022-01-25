@@ -38,7 +38,7 @@ object Dependencies {
 
     case object scalatestplus {
       val `scalacheck-1-15` =
-        "org.scalatestplus" %% "scalacheck-1-15" % "3.2.10.0"
+        "org.scalatestplus" %% "scalacheck-1-15" % "3.2.11.0"
     }
 
     case object typelevel {
