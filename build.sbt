@@ -1,7 +1,7 @@
 import Dependencies._
 
 ThisBuild / organization := "com.techmonad.playground"
-ThisBuild / scalaVersion := "2.13.7"
+ThisBuild / scalaVersion := "2.13.10"
 
 lazy val `playground` =
   project
